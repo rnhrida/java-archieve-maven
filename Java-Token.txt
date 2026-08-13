@@ -1,0 +1,9 @@
+sqp_00be05f469502d20233addfcb14b5f8f84294787 : Maven-SPring-Pet[Spring-pet Java Project]
+ "Mvn-war-check": sqp_534549ebe3d54d9f7c0001668e19230876d8c541
+ "mvn-jar-task": sqp_fbc235c35ce7a8250e85db1877a9559732754513
+
+
+
+
+
+
